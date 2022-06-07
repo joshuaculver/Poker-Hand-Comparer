@@ -1,0 +1,8 @@
+Black: 2H 3D 5S 9C KD  White: 2C 3H 4S 8C AH
+Black: KD KS 7S 1D 4H  White: 1S 5D 5S JC QS
+Black: 2H 4S 4C 2D 4H  White: 2S 8S AS QS 3S
+Black: 2H 3D 5S 9C KD  White: 2C 3H 4S 8C KH
+Black: 2H 3D 5S 9C KD  White: 2D 3H 5C 9S KH
+Black: 1S 2S 3S 4S 5S  White: 1C 1H 7C QD KD
+Black: 5D 9S JH KD 2C  White: QS JH AS KD TS
+Black: 7D 7S 5H 5C KD  White: 4C 3S 7C KC 1S
